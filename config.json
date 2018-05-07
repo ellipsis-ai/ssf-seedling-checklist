@@ -1,0 +1,8 @@
+{
+  "name" : "SSF Seedling Systems Checklist",
+  "exportId" : "fZI1R1E0RJ6QP1O9leYgQw",
+  "icon" : "🌱",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}

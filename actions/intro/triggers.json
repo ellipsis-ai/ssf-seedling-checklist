@@ -1,0 +1,6 @@
+[ {
+  "text" : "run ssf seedling checklist",
+  "requiresMention" : true,
+  "isRegex" : false,
+  "caseSensitive" : false
+} ]

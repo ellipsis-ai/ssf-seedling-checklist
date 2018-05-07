@@ -1,0 +1,41 @@
+[ {
+  "exportId" : "-dnXNq3JSXyOnJ3onHUCnA",
+  "name" : "lights",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are lights on 6PM-12PM and off all other times?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "6uE7u4VETqW7pL0B_tXMeA",
+  "name" : "summary",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `summary`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "7XRG9sPRRsymYyk0lOKp4A",
+  "name" : "fans",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are all floor and seedling rack fans running (check all levels)?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "ZCgynDv0Skeg2OYTvyEB-g",
+  "name" : "hvac",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the HVAC running properly (i.e. screen is not clogged and machine is on)?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+} ]
